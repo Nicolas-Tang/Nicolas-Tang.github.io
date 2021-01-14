@@ -1,0 +1,46 @@
+.Headers{
+    text-align: right;
+    vertical-align: middle;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.Headers a {
+    padding-right: 10px;
+    color: black;
+}
+
+.Headers a:hover{
+    color: black;
+}
+
+a[href="https://accounts.google.com/"] {
+    color: white;
+    background-color: #1a73e8;
+    vertical-align: middle;
+    font-size: small;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+a[href="https://accounts.google.com/"]:hover {
+    color: white;
+}
+
+#image{
+    text-align: center;
+    padding-top: 95px;
+}
+
+form {
+    text-align: center;
+    padding-top: 30px;
+    background-color: transparent;
+    border: null;
+    color: rgb(0, 0, 0, .87);
+    display: flex;
+}
